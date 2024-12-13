@@ -1,3 +1,4 @@
+#PROTOTYPE
 import pymysql
 from pymysql import MySQLError
 import tkinter as tk
