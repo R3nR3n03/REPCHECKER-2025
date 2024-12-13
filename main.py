@@ -294,3 +294,4 @@ result_text = scrolledtext.ScrolledText(result_tab, width=120, height=30, wrap=t
 result_text.grid(column=0, row=0, padx=10, pady=10)
 
 root.mainloop()
+#
