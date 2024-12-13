@@ -1,0 +1,10 @@
+{
+    "main_server": {
+        "host": "",
+        "user": "",
+        "password": "",
+        "database": "",
+        "port": "3306"
+    },
+    "node_servers": []
+}
